@@ -9,10 +9,10 @@ inside a Jupyter notebook. We simulate a helimagnetic system containing five
 skyrmions. Then, we use Blender to create an artistic 3D rendering of this
 configuration (shown above).
 
-You can run the Jupyter notebook, containing the Ubermag simulations, online
-using the following link: *[coming soon]*
+You can execute the Jupyter notebook, containing the Ubermag simulations, online in your browser
+using the following Binder link: *[coming soon]* (the actual code execution takes place in the cloud).
 
-The interactive online notebook can be fully modified to explore this system further.
+The interactive online notebook can be modified and re-executed to interactively explore the system further. 
 
 ### Results (visualised with `matplotlib`)
 
