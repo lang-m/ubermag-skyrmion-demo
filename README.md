@@ -10,9 +10,9 @@ helimagnetic system containing five skyrmions. Then, we use Blender to create an
 artistic 3D rendering of this configuration (shown above).
 
 You can execute the Jupyter notebook, containing the Ubermag simulations, online
-in your browser using the following Binder link:
+in your browser using the following Binder link (the actual code execution takes place in the cloud):
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lang-m/ubermag-skyrmion-demo/HEAD?urlpath=%2Fnotebooks%2Fsimulation.ipynb)
-(the actual code execution takes place in the cloud).
 
 The interactive online notebook can be modified and re-executed to interactively explore the system further. 
 
