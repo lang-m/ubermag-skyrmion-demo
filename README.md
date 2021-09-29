@@ -4,10 +4,10 @@
 
 ## About
 
-This is an example repository using Ubermag [1] to run micromagnetic simulations
-inside a Jupyter notebook. We simulate a helimagnetic system containing five
-skyrmions. Then, we use Blender to create an artistic 3D rendering of this
-configuration (shown above).
+This is an example repository using [Ubermag](https://ubermag.github.io) [1] to
+run micromagnetic simulations inside a Jupyter notebook. We simulate a
+helimagnetic system containing five skyrmions. Then, we use Blender to create an
+artistic 3D rendering of this configuration (shown above).
 
 You can execute the Jupyter notebook, containing the Ubermag simulations, online in your browser
 using the following Binder link: *[coming soon]* (the actual code execution takes place in the cloud).
